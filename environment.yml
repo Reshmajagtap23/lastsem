@@ -1,0 +1,5 @@
+name: sem4
+channels:
+  - defaults
+  - conda-forge
+prefix: D:\Anaconda\envs\sem4\envs\sem4
